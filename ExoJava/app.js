@@ -9,3 +9,7 @@ function substraction (a, b) {
 }
 console.log(substraction(5, 1));
 
+function multiplication (a, b) {
+	return a * b;
+}
+console.log(multiplication(5, 3));
